@@ -1,0 +1,51 @@
+const zh = {
+    // layout
+    commons: {
+      xiaoai: '小爱',
+      admin: '管理员',
+      editor: '苏杰鑫',
+      quit: '退出',
+      hi: '您好',
+      index: '首页',
+      userManage: '用户管理',
+      infoManage: '信息管理',
+      infoShow: '个人信息',
+      infoShow1: '个人信息查看',
+      infoModify: '修改信息',
+      infoModify1:'修改个人信息',
+      fundManage: '基础信息管理',
+      fundDataChart:'图表管理',
+      fundList: '供货商信息管理',
+      chinaTabsList: '仓库信息管理',
+      fundData: '入库和出库管理',
+      fundDataIn: '入库管理',
+      fundDataOut: '出库管理',
+      fundNumberChart:'库存图表',
+      fundNumber:'商品库存管理',
+      fundNumberMonth:'月度报表',
+      fundSend:'商品销售管理',
+      fundSendIndex:'商品销售管理',
+      fundSendChart:'商品销售图表',
+      fundNumberYear:'年度报表',
+      fundNumberInfo:'库存信息',
+      incomePayPosition: '出库查询',
+      permission: '权限设置',
+      pagePer: '页面权限',
+      directivePer: '按钮权限',
+      errorPage: '错误页面',
+      page401:'401',
+      page404:'404',
+    },
+    index:{
+      yearLoss:'年度总盈亏',
+      yearProfit:'年度收益率',
+      potentialInvestor:'潜在投资人',
+      intentionInvestor:'意向投资人',
+      waitExamineInvestor:'待审投资人',
+      examiningInvestor:'审核中投资人',
+      tenMillion:'千万元',
+      person:'人'
+    }
+  }
+  
+export default zh;
